@@ -1,0 +1,6 @@
+POINT TO BE NOTED :
+ENTER STUDENT's SEMESTER FIELD IN CHARACTER ONLY OTHER WISE THE SYSTEM WILL CRASH AND END.
+(For Eg:First,Second,Third..)
+
+# Education Purpose ,, 
+No longer maintained
